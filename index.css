@@ -1,0 +1,17 @@
+* {
+    box-sizing: 0px;
+}
+.li_font{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 1.5;
+    color: rgb(41, 40, 40);
+}
+.col-md-2_5 {
+    flex: 0 0 auto;
+    width: 19%;
+}
+.text-primary-change{
+    color: #25a8e0!important;
+}
